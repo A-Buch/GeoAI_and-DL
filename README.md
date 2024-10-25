@@ -1,4 +1,4 @@
-# GeoAI. urban recreational areas
+# Detect urban recreational areas using GeoAI
 
 
 Experiment with spatial-context aware models to detect urban space for recreation.
